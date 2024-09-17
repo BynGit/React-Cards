@@ -5,7 +5,7 @@
 Este es un proyecto hecho en React, el cual presenta unas tarjetas.
 (El proyecto fue implementado para interactuar con el servicio de despliegue de GitHub). 
 
-URL: https://brayancardona12.github.io/React-Cards/
+URL: https://byngit.github.io/React-Cards/
 
 
 
