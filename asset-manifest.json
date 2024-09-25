@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Cards/static/css/main.9f2b36fb.css",
+    "main.js": "/React-Cards/static/js/main.eab67ec8.js",
+    "static/js/787.4b846e2a.chunk.js": "/React-Cards/static/js/787.4b846e2a.chunk.js",
+    "static/media/toyotaSupre.jpg": "/React-Cards/static/media/toyotaSupre.c644234d418bbdba2769.jpg",
+    "index.html": "/React-Cards/index.html",
+    "main.9f2b36fb.css.map": "/React-Cards/static/css/main.9f2b36fb.css.map",
+    "main.eab67ec8.js.map": "/React-Cards/static/js/main.eab67ec8.js.map",
+    "787.4b846e2a.chunk.js.map": "/React-Cards/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2b36fb.css",
+    "static/js/main.eab67ec8.js"
+  ]
+}
